@@ -1,0 +1,10 @@
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Provide the location of the sitemap
+Sitemap: https://danilomanco.it/sitemap.xml
