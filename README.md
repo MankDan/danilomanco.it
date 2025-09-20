@@ -37,17 +37,16 @@ Per esplorare il codice o eseguire il sito in un ambiente di sviluppo locale:
 
 1.  **Clona il repository:**
     ```bash
-    git clone https://github.com/MankDan/tuo-repository.git
+    git clone https://github.com/MankDan/danilomanco.it.git
     ```
-    *(Sostituisci `tuo-repository` con il nome reale del tuo repo)*
 
 2.  **Naviga nella cartella:**
     ```bash
-    cd tuo-repository
+    cd danilomanco.it
     ```
 
 3.  **Avvia un server locale:**
-    Il modo più semplice è usare l'estensione [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) per Visual Studio Code. Basta cliccare sul pulsante "Go Live" in basso a destra nell'editor.
+    Il modo più semplice è usare l'estensione [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) per Visual Studio Code. Basta cliccare sul pulsante "Go Live" in basso a destra nell'edit
 
 ---
 
